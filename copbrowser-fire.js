@@ -2,6 +2,8 @@
 // Clone of https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/markuse_fire/ 
 // but omitting CLP band
 
+// QuickFire V1.0.0 by Pierre Markuse (https://twitter.com/Pierre_Markuse)
+
 // Made for use in the Sentinel Hub EO Browser (https://apps.sentinel-hub.com/eo-browser/?)
 // CC BY 4.0 International (https://creativecommons.org/licenses/by/4.0/)
 
